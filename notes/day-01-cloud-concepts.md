@@ -5,10 +5,10 @@ Delivery of computing services over the internet.
 
 | Azure Services | Why use them? |
 |---|---|
-| VMs | ↘ |
-| Storage | ↓ |
+| VMs |  
+| Storage |  
 | Databases | → **To expand capabilities you do not need in your physical space** |
-| Networking | ↑ |
-| Internet of Things (IoT) | ↑ |
-| Machine Learning | ↗ |
-| AI | ↑ |
+| Networking |  
+| Internet of Things (IoT) |  
+| Machine Learning |  
+| AI |  
