@@ -16,7 +16,7 @@ practice questions, personal notes, and hands-on Azure exercises.
 
 ### Week 1 — Cloud Concepts & Core Architecture
 
-- [ ] Day 1 — Cloud Concepts I
+- [X] Day 1 — Cloud Concepts I
 - [ ] Day 2 — Cloud Concepts II & Cloud Models
 - [ ] Day 3 — Cloud Services: IaaS, PaaS & SaaS
 - [ ] Day 4 — Azure Regions & Availability
