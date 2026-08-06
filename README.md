@@ -1,5 +1,3 @@
-# AZ-900-Azure-Fundamentals-
-Learn the core concepts of Microsoft Azure, including cloud computing, Azure services, pricing, security, governance, and architecture. This certification provides the foundation for every Azure certification that follows and introduces the terminology used throughout the Microsoft cloud ecosystem
 # AZ-900 Azure Fundamentals
 
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
@@ -10,7 +8,7 @@ A personal study repository documenting my preparation for the
 
 This repository follows a structured **3-week training schedule**
 combining Microsoft Learn, John Savill's Technical Training,
-practice questions, notes, and hands-on Azure exercises.
+practice questions, personal notes, and hands-on Azure exercises.
 
 ---
 
@@ -90,27 +88,27 @@ The training schedule includes practical Azure exercises such as:
 ## Repository Structure
 
 ```text
-AZ-900/
+AZ-900-Azure-Fundamentals/
 │
 ├── README.md
-│
-├── notes/
-│   ├── cloud-concepts.md
-│   ├── architecture.md
-│   ├── compute.md
-│   ├── networking.md
-│   ├── storage.md
-│   ├── identity.md
-│   ├── security.md
-│   ├── governance.md
-│   └── pricing.md
-│
-├── labs/
-│   ├── resource-group.md
-│   ├── virtual-machine.md
-│   ├── virtual-network.md
-│   ├── storage-account.md
-│   └── network-security-group.md
-│
-└── images/
-    └── screenshots/
+├── notes/       Daily AZ-900 study notes
+├── labs/        Hands-on Azure exercises
+└── images/      Screenshots and diagrams
+```
+
+---
+
+## Study Resources
+
+- Microsoft Learn — Azure Fundamentals
+- John Savill's Technical Training
+- Microsoft Azure Documentation
+- ExamTopics AZ-900 Practice Questions
+
+---
+
+## Progress
+
+🚧 **Currently studying for Microsoft Azure Fundamentals (AZ-900)**
+
+This repository will be updated as I progress through the 21-day training plan.
