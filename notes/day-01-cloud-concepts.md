@@ -30,4 +30,4 @@ Delivery of computing services over the internet.
 <br>
 <br>
 
-<u>Things that Stay with you:</u>
+<ins>Things that Stay with you:</ins>
