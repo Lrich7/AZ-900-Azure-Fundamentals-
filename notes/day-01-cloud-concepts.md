@@ -49,4 +49,7 @@ Delivery of computing services over the internet.
 * **SQL** → They maintain the ACTUAL Database host
 <br>
 <br>
+
 ---
+
+<br>
