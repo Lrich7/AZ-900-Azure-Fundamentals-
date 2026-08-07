@@ -47,3 +47,6 @@ Delivery of computing services over the internet.
 * **Power**               → Supply of steady electricity and Cooling
 * **Network Connectivity** → Build and maintain their own network gear, patches and routing
 * **SQL** → They maintain the ACTUAL Database host
+<br>
+<br>
+---
