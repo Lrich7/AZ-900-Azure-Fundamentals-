@@ -60,7 +60,6 @@ Delivery of computing services over the internet.
 
 
 ## **Private Cloud**
-<br>
 Dedicated to the ONE ORG
 * Complete control over resources and security.
 * Data NOT collocated with other tenants.
