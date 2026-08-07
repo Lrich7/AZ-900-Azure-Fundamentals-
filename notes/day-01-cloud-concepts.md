@@ -60,8 +60,6 @@ Delivery of computing services over the internet.
 
 
 ## **Private Cloud**
-
-<br>
 <br>
 Dedicated to the ONE ORG
 * Complete control over resources and security.
