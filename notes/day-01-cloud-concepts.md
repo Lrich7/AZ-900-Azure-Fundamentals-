@@ -28,6 +28,7 @@ Delivery of computing services over the internet.
 
 ![Image Description](../images/shared-responsibility-model.png)
 <br>
+* **You will always be more responsible for what STAYS with You.**
 <br>
 <br>
 
