@@ -60,10 +60,41 @@ Delivery of computing services over the internet.
 
 
 ## **Private Cloud**
-Dedicated to the ONE ORG
+**Dedicated to the ONE ORG**
 
 * Complete control over resources and security.
 * Data NOT collocated with other tenants.
 * Hosted on-premises or in dedicated Datacenter
 * Greater Cost, fewer benefits of the Public Cloud
 * Natural evolution from tradtional Datacenter
+* **MANAGED BY:** You or Third Party
+* **SINGLE ORG**
+
+<br>
+<br>
+
+## **Public Cloud**
+**Provider infrastructure**
+
+* No Capital expenditures (CAPEX) to scale UP
+* Quick Provisioning and Deprovisioning
+* Pay ONLY for what you USE
+* Built, controlled and maintained by Provider
+* **MANAGED BY:** Cloud provider.
+* **GENERAL PUBLIC ACCESS**
+
+<br>
+<br>
+
+## **Hybrid Cloud**
+**Both Connected**
+
+* Provides the MOST FLEXIBILIITY
+* Control Security Compliance or Legal
+* Surge to Public Cloud for temporary demand
+* Extra layer of Security between environments
+*  **Managed by: You and Provider
+*  **Private and Public interconnected
+
+
+
