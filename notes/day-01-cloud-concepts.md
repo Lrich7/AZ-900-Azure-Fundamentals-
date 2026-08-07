@@ -43,7 +43,7 @@ Delivery of computing services over the internet.
 
 ## <ins>Things that the PROVIDER is responsible for:</ins>
 
-* **Physical Security**
-* **Power**
-* **Network Connectivity**
-* **SQL the maintain the ACTUAL Database host**
+* **Physical Security** →   Keycard or other physical barriers
+* **Power**               → Supply of steady electricity and Cooling
+* **Network Connectivity** → Build and maintain their own network gear, patches and routing
+* **SQL** → They maintain the ACTUAL Database host
