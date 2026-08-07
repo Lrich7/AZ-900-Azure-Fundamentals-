@@ -29,7 +29,7 @@ Delivery of computing services over the internet.
 ![Image Description](../images/shared-responsibility-model.png)
 <br>
 <br>
-
+<br>
 ## <ins>Things that YOU are responsible for:</ins>
 * Data - Information stored in cloud
 * Access Security --> only give access to those who NEED it
