@@ -31,9 +31,9 @@ Delivery of computing services over the internet.
 <br>
 <br>
 ## <ins>Things that YOU are responsible for:</ins>
-* Data - Information stored in cloud
+* Data            →  Information stored in cloud
 * Access Security → only give access to those who NEED it
-* SQL - you must patch and update
+* SQL             → you must patch and update
 <br>
 <br>
 <br>
