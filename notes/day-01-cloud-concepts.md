@@ -60,3 +60,12 @@ Delivery of computing services over the internet.
 
 
 ## **Private Cloud**
+
+<br>
+<br>
+Dedicated to the ONE ORG
+* Complete control over resources and security.
+* Data NOT collocated with other tenants.
+* Hosted on-premises or in dedicated Datacenter
+* Greater Cost, fewer benefits of the Public Cloud
+* Natural evolution from tradtional Datacenter
