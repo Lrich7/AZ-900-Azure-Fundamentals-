@@ -27,3 +27,7 @@ Delivery of computing services over the internet.
 <br>
 
 ![Image Description](../images/shared-responsibility-model.png)
+<br>
+<br>
+
+<u>Things that Stay with you:</u>
