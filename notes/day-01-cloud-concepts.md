@@ -39,8 +39,6 @@ Delivery of computing services over the internet.
   
 <br>
 <br>
-<br>
-<br>
 
 ## <ins>Things that the PROVIDER is responsible for:</ins>
 
