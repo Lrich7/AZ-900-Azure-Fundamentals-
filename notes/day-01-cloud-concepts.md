@@ -61,6 +61,7 @@ Delivery of computing services over the internet.
 
 ## **Private Cloud**
 Dedicated to the ONE ORG
+
 * Complete control over resources and security.
 * Data NOT collocated with other tenants.
 * Hosted on-premises or in dedicated Datacenter
