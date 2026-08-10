@@ -75,7 +75,9 @@ Delivery of computing services over the internet.
 * Hosted on-premises or in dedicated Datacenter.
 * Greater Cost, fewer benefits of the Public Cloud.
 * Natural evolution from tradtional Datacenter.
+  
 ##
+
 * **MANAGED BY:** You or Third Party.
 * **SINGLE ORG**
 
