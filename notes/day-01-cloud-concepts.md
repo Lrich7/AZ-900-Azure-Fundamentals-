@@ -1,3 +1,6 @@
+## **Day 1 — Cloud Concepts I**
+
+
 ![Image Description](../images/azure-services-diagram.png)
 
 ## **What is cloud computing?**
