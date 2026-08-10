@@ -76,7 +76,8 @@ Delivery of computing services over the internet.
 * Hosted on-premises or in dedicated Datacenter.
 * Greater Cost, fewer benefits of the Public Cloud.
 * Natural evolution from tradtional Datacenter.
-* **MANAGED BY:** You or Third Party.
+---
+  * **MANAGED BY:** You or Third Party.
 * **SINGLE ORG**
 
 <br>
@@ -93,6 +94,7 @@ Delivery of computing services over the internet.
 * Quick Provisioning and Deprovisioning.
 * Pay ONLY for what you USE.
 * Built, controlled and maintained by Provider.
+---
 * **MANAGED BY:** Cloud provider.
 * **GENERAL PUBLIC ACCESS**
 
@@ -131,6 +133,7 @@ Delivery of computing services over the internet.
 * Manage Resources and security across environments.
 * Increasingly common deployment scenarios.
 * Supports provider migrations scenarios.
+---
 *  **Managed by:** You and Provider.
 *  **2 or More providers connected.**
 
