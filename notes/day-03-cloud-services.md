@@ -1,30 +1,33 @@
-## Day 3 — Cloud Services
+# Day 3 — Cloud Service Models (IaaS, PaaS & SaaS)
+
 ---
 
-## 📚 Additional Learning
+## 📚 Microsoft Learn
 
-### Microsoft Learn
+- **Describe Cloud Service Types**
+  - ➡️ https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/
 
-- **Describe Cloud Concepts**
-  - ➡️ [Open Microsoft Learn Module](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+---
 
-### 🎥 Recommended Videos (John Savill)
+## 🎥 Recommended Videos (John Savill)
 
 | Topic | Length | Link |
 |-------|:------:|------|
-| Reliability & Predictability | 7:16 | [Watch](https://youtu.be/kD2YqdDaO1w) |
-| Public vs. Private vs. Hybrid Cloud | 12:41 | [Watch](https://youtu.be/7dlCrF2wmXU) |
+| Cloud Service Models (IaaS, PaaS & SaaS) | 15:16 | [Watch](https://youtu.be/IqQC1EOQqeU) |
+| Choosing the Right Cloud Service Model | 4:01 | [Watch](https://youtu.be/KH8NH76h2vc) |
 
-### 🧪 Hands-On Practice
+---
+
+## 🧪 Hands-On Practice
 
 1. Sign in to the **Azure Portal**.
 2. Search for each of the following services:
-   - **Azure Virtual Machines**
-   - **Azure App Service**
-   - **Azure Functions**
-   - **Azure SQL Database**
+   - Azure Virtual Machines
+   - Azure App Service
+   - Azure Functions
+   - Azure SQL Database
 3. Open each service and review its overview page.
-4. Identify which cloud service model each one belongs to.
+4. Identify which cloud service model each service belongs to.
 
 | Azure Service | Service Model |
 |---------------|---------------|
@@ -34,4 +37,4 @@
 | Azure SQL Database | **PaaS** |
 
 > [!TIP]
-> **Exam Tip:** Be able to identify the service model from the service name. Microsoft frequently tests whether you know if a service is **IaaS**, **PaaS**, **SaaS**, or **Serverless (FaaS)**.
+> **Exam Tip:** The AZ-900 exam frequently asks you to identify whether an Azure service is **IaaS**, **PaaS**, **SaaS**, or **Serverless (FaaS)**. Practice recognizing the service model from the service name alone.
