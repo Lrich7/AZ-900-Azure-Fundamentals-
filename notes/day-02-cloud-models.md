@@ -4,7 +4,7 @@
 <br>
 
 ## **Private Cloud**
-**Dedicated to the ONE ORG**
+**Dedicated to the ONE ORG** 
 * **A private cloud is a dedicated computing environment used exclusively by a single organization**, such as a bank's internal server network, a hospital's secure patient data system, or a company's private VMware infrastructure.
 
 ##
