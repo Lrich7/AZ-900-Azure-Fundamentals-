@@ -53,12 +53,8 @@ Delivery of computing services over the internet.
 ---
 
 <br>
-
-
 <br>
 <br>
-
-
 <br>
 
 # **Different types of Clouds**
@@ -80,10 +76,8 @@ Delivery of computing services over the internet.
 
 * **MANAGED BY:** You or Third Party.
 * **SINGLE ORG**
-
-<br>
-
 ---
+<br>
 
 ## **Public Cloud**
 **Provider infrastructure**
@@ -98,10 +92,9 @@ Delivery of computing services over the internet.
 ## 
 * **MANAGED BY:** Cloud provider.
 * **GENERAL PUBLIC ACCESS**
+---
 
 <br>
-
----
 
 ## **Hybrid Cloud**
 **Both Connected**
@@ -117,10 +110,9 @@ Delivery of computing services over the internet.
 ##
 *  **Managed by:** You and Provider.
 *  **Private and Public interconnected.**
+---
 
 <br>
-
----
 
 ## **Multi-Cloud**
 **Multiple Providers**
@@ -138,3 +130,5 @@ Delivery of computing services over the internet.
 *  **Managed by:** You and Provider.
 *  **2 or More providers connected.**
 ---
+
+<br>
