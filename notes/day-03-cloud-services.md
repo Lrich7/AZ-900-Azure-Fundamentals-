@@ -14,3 +14,24 @@
 |-------|:------:|------|
 | Reliability & Predictability | 7:16 | [Watch](https://youtu.be/kD2YqdDaO1w) |
 | Public vs. Private vs. Hybrid Cloud | 12:41 | [Watch](https://youtu.be/7dlCrF2wmXU) |
+
+### 🧪 Hands-On Practice
+
+1. Sign in to the **Azure Portal**.
+2. Search for each of the following services:
+   - **Azure Virtual Machines**
+   - **Azure App Service**
+   - **Azure Functions**
+   - **Azure SQL Database**
+3. Open each service and review its overview page.
+4. Identify which cloud service model each one belongs to.
+
+| Azure Service | Service Model |
+|---------------|---------------|
+| Azure Virtual Machines | **IaaS** |
+| Azure App Service | **PaaS** |
+| Azure Functions | **Serverless (FaaS)** |
+| Azure SQL Database | **PaaS** |
+
+> [!TIP]
+> **Exam Tip:** Be able to identify the service model from the service name. Microsoft frequently tests whether you know if a service is **IaaS**, **PaaS**, **SaaS**, or **Serverless (FaaS)**.
