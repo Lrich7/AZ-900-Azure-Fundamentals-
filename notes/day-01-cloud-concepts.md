@@ -86,7 +86,8 @@ Delivery of computing services over the internet.
 ## **Public Cloud**
 **Provider infrastructure**
 
-* **A public cloud is a service run by a third-party company. It lets many people and businesses share the same computer hardware over the internet. Popular examples include Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, and consumer tools like Gmail.**
+* **A public cloud is a service run by a third-party company.** It lets many people and businesses share the same computer hardware over the internet.
+* Popular examples include **Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform**, and consumer tools like **Gmail**.
 
 * No Capital expenditures (CAPEX) to scale UP
 * Quick Provisioning and Deprovisioning.
@@ -101,7 +102,8 @@ Delivery of computing services over the internet.
 ## **Hybrid Cloud**
 **Both Connected**
 
-* **A classic hybrid cloud example is an e-commerce store. The store keeps its private customer database on its own secure, local computers (on-premises). During big shopping events like Black Friday, it uses extra computer power from a public cloud like Amazon Web Services to handle the heavy web traffic.**
+* **A classic hybrid cloud example** is an **e-commerce store.** The store keeps its **private customer database on its own secure, local computers (on-premises)**.
+* During big shopping events like Black Friday, it uses extra computer power from a public cloud like Amazon Web Services to handle the heavy web traffic.
 
 * Provides the MOST FLEXIBILIITY
 * Control Security Compliance or Legal.
@@ -116,7 +118,9 @@ Delivery of computing services over the internet.
 ## **Multi-Cloud**
 **Multiple Providers**
 
-* **A multi-cloud setup means a company uses public cloud services from two or more different vendors—such as Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure—at the same time. For example, a global online store might run its main website on AWS, use Google Cloud for data analytics and artificial intelligence, and host user identity databases on Microsoft Azure**
+* **A multi-cloud setup means a company uses public cloud services from two or more different vendors—such as **Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure** at the same time.
+
+*  For example, a global online store might run its main website on AWS, use Google Cloud for data analytics and artificial intelligence, and host user identity databases on Microsoft Azure
 
 * Multiple public cloud providers.
 * Different Features from Different Providers.
