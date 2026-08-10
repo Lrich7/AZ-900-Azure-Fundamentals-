@@ -1,4 +1,4 @@
-# **Day 2 — Cloud Concepts II & Cloud Models**
+## **Day 2 — Cloud Concepts II & Cloud Models**
 
 <br>
 
