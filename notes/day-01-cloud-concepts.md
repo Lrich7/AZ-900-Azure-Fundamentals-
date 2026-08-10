@@ -76,8 +76,8 @@ Delivery of computing services over the internet.
 * Hosted on-premises or in dedicated Datacenter.
 * Greater Cost, fewer benefits of the Public Cloud.
 * Natural evolution from tradtional Datacenter.
----
-  * **MANAGED BY:** You or Third Party.
+
+* **MANAGED BY:** You or Third Party.
 * **SINGLE ORG**
 
 <br>
@@ -89,8 +89,6 @@ Delivery of computing services over the internet.
 **Provider infrastructure**
 * **A public cloud is a service run by a third-party company.** It lets many people and businesses share the same computer hardware over the internet.
 * Popular examples include **Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform**, and consumer tools like **Gmail**.
-
-<br>
 
 ## 
 * No Capital expenditures (CAPEX) to scale UP
