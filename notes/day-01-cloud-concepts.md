@@ -92,6 +92,7 @@ Delivery of computing services over the internet.
 
 <br>
 
+## 
 * No Capital expenditures (CAPEX) to scale UP
 * Quick Provisioning and Deprovisioning.
 * Pay ONLY for what you USE.
