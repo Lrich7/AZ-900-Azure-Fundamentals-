@@ -96,7 +96,7 @@ Delivery of computing services over the internet.
 * Quick Provisioning and Deprovisioning.
 * Pay ONLY for what you USE.
 * Built, controlled and maintained by Provider.
-##
+## 
 * **MANAGED BY:** Cloud provider.
 * **GENERAL PUBLIC ACCESS**
 
