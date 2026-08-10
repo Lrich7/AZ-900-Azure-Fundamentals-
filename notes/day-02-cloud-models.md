@@ -10,7 +10,8 @@
 | Reliability & Predictability | 7:16 | [Watch](https://youtu.be/kD2YqdDaO1w) |
 | Public vs. Private vs. Hybrid Cloud | 12:41 | [Watch](https://youtu.be/7dlCrF2wmXU) |
 
-<br>
+<br> 
+
 ---
 
 
