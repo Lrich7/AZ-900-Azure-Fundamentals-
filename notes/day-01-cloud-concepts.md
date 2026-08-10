@@ -100,7 +100,6 @@ Delivery of computing services over the internet.
 * **GENERAL PUBLIC ACCESS**
 
 <br>
-<br>
 
 ---
 
