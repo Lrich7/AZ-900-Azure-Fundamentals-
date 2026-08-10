@@ -108,19 +108,18 @@ Delivery of computing services over the internet.
 * **A classic hybrid cloud example** is an **e-commerce store.** The store keeps its **private customer database on its own secure, local computers (on-premises)**.
 * During big shopping events like Black Friday, it uses extra computer power from a public cloud like Amazon Web Services to handle the heavy web traffic.
 
-<br>
-
+##
 * Provides the MOST FLEXIBILIITY
 * Control Security Compliance or Legal.
 * Surge to Public Cloud for temporary demand.
 * Extra layer of Security between environments.
 * EXTRA layer of security
-
+##
 *  **Managed by:** You and Provider.
 *  **Private and Public interconnected.**
 
 <br>
-<br>
+
 ---
 
 ## **Multi-Cloud**
@@ -129,14 +128,13 @@ Delivery of computing services over the internet.
 * A **multi-cloud setup** means a company uses public cloud services from **two or more** different vendors—such as **Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure** at the same time.
 *  For example, a global online store might run its main website on AWS, use Google Cloud for data analytics and artificial intelligence, and host user identity databases on Microsoft Azure
 
-<br>
-
+##
 * Multiple public cloud providers.
 * Different Features from Different Providers.
 * Manage Resources and security across environments.
 * Increasingly common deployment scenarios.
 * Supports provider migrations scenarios.
-
+##
 *  **Managed by:** You and Provider.
 *  **2 or More providers connected.**
 ---
