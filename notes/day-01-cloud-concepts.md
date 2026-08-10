@@ -191,6 +191,8 @@ It **does not** migrate resources into Azure—it only allows Azure to manage th
 
 <br>
 
+#---
+
 ## **Azure VMware Solution (AVS)**
 
 * Microsoft service that lets you run **VMware environments natively in Azure**.
