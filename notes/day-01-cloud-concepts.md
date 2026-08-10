@@ -134,20 +134,60 @@ Delivery of computing services over the internet.
 <br>
 <br>
 
+---
+
 ## **Azure Arc**
-* Set of Technology that helps manage Cloud environments in : **Private, Public, Hybrid, Multi-Cloud**
-* It is a bridge tool from Microsoft. It lets you manage computers, servers, and data stored outside of Azure.
-* You can control items on your own local computers, edge devices, or other cloud systems (like AWS or Google Cloud) using the normal Azure portal.
 
-### What Azure Arc Can Manage
-* **Servers and Virtual Machines**: Windows and Linux machines running on-premises, on VMware vSphere, or on other clouds.
-* **Kubernetes Clusters:** Any cluster running anywhere can connect to Azure for group management.
-* **Databases:** Run Azure SQL Managed Instance and track regular SQL Server setups outside of Azure.
+* Microsoft service that lets you manage resources across **Private, Public, Hybrid, and Multi-Cloud** environments.
+* Acts as a bridge between Azure and resources running outside of Azure.
+* Allows you to manage on-premises servers, edge devices, and resources in other cloud providers (such as AWS and Google Cloud) directly from the Azure portal.
+* Extends Azure management and governance to resources regardless of where they are hosted.
 
-### Core Benefits
-* **One Control Space:** See all your outside resources inside Azure Resource Manager as if they live in the cloud.
-* **Better Security:** Apply Microsoft Defender for Cloud and Azure Policy across your whole mixed system.
-* **No Extra Control Cost**: Basic control features like inventory tracking, group tagging, and basic role permissions on servers cost nothing extra.
+> [!NOTE]
+> **Remember:** Azure Arc does **not** move your resources into Azure. It simply allows Azure to manage resources that already exist outside of Azure.
+
+```text
+                    Azure Portal
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+   On-Premises       AWS / Google Cloud   Edge Devices
+      Servers             VMs/Kubernetes       IoT
+        │                │                │
+        └──────────── Azure Arc ──────────┘
+```
+
+---
+
+### **What Azure Arc Can Manage**
+
+* **Servers and Virtual Machines:** Windows and Linux machines running on-premises, VMware vSphere, Hyper-V, or other cloud providers.
+* **Kubernetes Clusters:** Connect and centrally manage Kubernetes clusters running anywhere.
+* **Databases:** Deploy and manage Azure SQL Managed Instance and SQL Server outside of Azure.
+* **Azure Services:** Extend selected Azure services to hybrid and multi-cloud environments.
+
+---
+
+### **Core Benefits**
+
+* **One Control Plane:** Manage Azure and non-Azure resources from a single Azure portal.
+* **Centralized Governance:** Apply Azure Policy, Role-Based Access Control (RBAC), and resource tagging consistently across all environments.
+* **Improved Security:** Use Microsoft Defender for Cloud to monitor and protect hybrid resources.
+* **Azure Management Services:** Enable services such as Azure Monitor, Update Manager, and Change Tracking for resources outside Azure.
+* **No Additional Azure Arc Management Cost:** Basic Azure Arc server management features are included at no extra charge (additional Azure services may have their own pricing).
+
+---
+
+### **Exam Tip**
+
+✅ **Azure Arc = Manage resources anywhere**
+
+Azure Arc extends Azure's management capabilities to:
+- On-premises datacenters
+- Other cloud providers (AWS, Google Cloud)
+- Edge locations
+
+It **does not** migrate resources into Azure—it only allows Azure to manage them.
 
 <br>
 
