@@ -1,11 +1,11 @@
 ## **Day 1 — Cloud Concepts I**
 
-<br>
-<br>
-## Video Lessons — John Savill's Technical Training:
-CapEx, OpEx and Consumption-based — https://youtu.be/WiwV9wb0GMo  [7:13]
-Benefits of High Availability and Scalability in the Cloud — https://youtu.be/JRbhGzGzoOA  [15:24]
+## 🎥 Recommended Videos (John Savill)
 
+| Topic | Length | Link |
+|-------|:------:|------|
+| CapEx, OpEx & Consumption-Based Pricing | 7:13 | [Watch](https://youtu.be/WiwV9wb0GMo) |
+| High Availability & Scalability | 15:24 | [Watch](https://youtu.be/JRbhGzGzoOA) |
 
 <br>
 <br>
