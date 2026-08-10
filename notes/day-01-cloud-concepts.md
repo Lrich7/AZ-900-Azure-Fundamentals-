@@ -83,6 +83,8 @@ Delivery of computing services over the internet.
 <br>
 <br>
 
+---
+
 ## **Public Cloud**
 **Provider infrastructure**
 * **A public cloud is a service run by a third-party company.** It lets many people and businesses share the same computer hardware over the internet.
@@ -94,12 +96,14 @@ Delivery of computing services over the internet.
 * Quick Provisioning and Deprovisioning.
 * Pay ONLY for what you USE.
 * Built, controlled and maintained by Provider.
----
+##
 * **MANAGED BY:** Cloud provider.
 * **GENERAL PUBLIC ACCESS**
 
 <br>
 <br>
+
+---
 
 ## **Hybrid Cloud**
 **Both Connected**
@@ -113,12 +117,13 @@ Delivery of computing services over the internet.
 * Surge to Public Cloud for temporary demand.
 * Extra layer of Security between environments.
 * EXTRA layer of security
----
+
 *  **Managed by:** You and Provider.
 *  **Private and Public interconnected.**
 
 <br>
 <br>
+---
 
 ## **Multi-Cloud**
 **Multiple Providers**
@@ -133,7 +138,7 @@ Delivery of computing services over the internet.
 * Manage Resources and security across environments.
 * Increasingly common deployment scenarios.
 * Supports provider migrations scenarios.
----
+
 *  **Managed by:** You and Provider.
 *  **2 or More providers connected.**
-
+---
