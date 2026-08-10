@@ -139,5 +139,5 @@ Delivery of computing services over the internet.
 
 <br>
 
-## ** Azure VMWare Solution**
+## **Azure VMWare Solution**
 * Let you run VMWare workloads in Azure with Seamless integration and scalability,
