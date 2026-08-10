@@ -156,7 +156,7 @@ Delivery of computing services over the internet.
 
 * **Azure VMware Solution (AVS)** is a fully managed Microsoft service that lets you run native VMware workloads on dedicated bare-metal Azure infrastructure. It features familiar tools like **vSphere, vCenter Server, vSAN, and NSX,** allowing seamless workload migration and integration with over 200 native Azure services.
   
-## **Core Architecture & Components**
+## Core Architecture & Components
 * **Private Clouds:** Isolated, dedicated hyperconverged infrastructure environments running on Azure bare-metal nodes.
 * **Software Stack:** Built using VMware vSphere (compute), vSAN (storage), and NSX (networking).
 * **VMware HCX:** Included to simplify and accelerate large-scale application migration and hybrid mobility.
