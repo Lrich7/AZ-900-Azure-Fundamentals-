@@ -132,3 +132,10 @@ Delivery of computing services over the internet.
 ---
 
 <br>
+<br>
+
+## **Azure Arc**
+* Set of Technology that helps manage Cloud environments in : **Private, Public, Hybrid, Multi-Cloud**
+
+## ** Azure VMWare Solution**
+* Let you run VMWare workloads in Azure with Seamless integration and scalability,
