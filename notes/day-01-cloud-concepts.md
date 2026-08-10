@@ -110,6 +110,8 @@ Delivery of computing services over the internet.
 * Control Security Compliance or Legal.
 * Surge to Public Cloud for temporary demand.
 * Extra layer of Security between environments.
+* EXTRA layer of security
+  
 *  **Managed by:** You and Provider.
 *  **Private and Public interconnected.**
 
