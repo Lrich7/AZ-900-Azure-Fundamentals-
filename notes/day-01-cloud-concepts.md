@@ -111,9 +111,7 @@ Delivery of computing services over the internet.
 * Surge to Public Cloud for temporary demand.
 * Extra layer of Security between environments.
 * EXTRA layer of security
-
- <br>
-  
+---
 *  **Managed by:** You and Provider.
 *  **Private and Public interconnected.**
 
