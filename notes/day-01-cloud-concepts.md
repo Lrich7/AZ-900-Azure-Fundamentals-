@@ -152,4 +152,18 @@ Delivery of computing services over the internet.
 <br>
 
 ## **Azure VMWare Solution**
-* Let you run VMWare workloads in Azure with Seamless integration and scalability,
+* Let you run VMWare workloads in Azure with Seamless integration and scalability.
+
+* **Azure VMware Solution (AVS)** is a fully managed Microsoft service that lets you run native VMware workloads on dedicated bare-metal Azure infrastructure. It features familiar tools like **vSphere, vCenter Server, vSAN, and NSX,** allowing seamless workload migration and integration with over 200 native Azure services.
+  
+## **Core Architecture & Components**
+* **Private Clouds:** Isolated, dedicated hyperconverged infrastructure environments running on Azure bare-metal nodes.
+* **Software Stack:** Built using VMware vSphere (compute), vSAN (storage), and NSX (networking).
+* **VMware HCX:** Included to simplify and accelerate large-scale application migration and hybrid mobility.
+* **Management:** Microsoft manages the underlying hardware, lifecycle patches, and infrastructure upgrades, while you retain administrative control of vCenter.
+
+## **Key Benefits & Requirements**
+* **License Portability:** Requires a portable VMware Cloud Foundation (VCF) subscription and license entitlement.
+* **No Re-architecting:** Migrate virtual machines "as-is" without changing existing operational tools, processes, or skill sets.
+* **Cost Optimizations:** Access free Extended Security Updates (ESU) for end-of-support versions of Windows Server and SQL Server, alongside Azure Hybrid Benefit support.
+* **Minimum Scale:** Requires a minimum initial deployment of three dedicated hosts per cluster, scaling up to 16 hosts
