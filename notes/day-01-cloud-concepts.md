@@ -60,7 +60,9 @@ Delivery of computing services over the internet.
 
 
 <br>
+
 # **Different types of Clouds**
+
 <br>
 
 ## **Private Cloud**
