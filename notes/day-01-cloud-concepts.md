@@ -59,6 +59,10 @@ Delivery of computing services over the internet.
 <br>
 
 
+<br>
+# **Different types of Clouds**
+<br>
+
 ## **Private Cloud**
 **Dedicated to the ONE ORG**
 
