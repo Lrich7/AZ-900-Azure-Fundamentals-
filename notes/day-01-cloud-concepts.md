@@ -191,7 +191,7 @@ It **does not** migrate resources into Azure—it only allows Azure to manage th
 
 <br>
 
-#---
+---
 
 ## **Azure VMware Solution (AVS)**
 
