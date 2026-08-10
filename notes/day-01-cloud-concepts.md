@@ -69,18 +69,16 @@ Delivery of computing services over the internet.
 **Dedicated to the ONE ORG**
 * **A private cloud is a dedicated computing environment used exclusively by a single organization**, such as a bank's internal server network, a hospital's secure patient data system, or a company's private VMware infrastructure.
 
-<br>
-
+##
 * Complete control over resources and security.
 * Data NOT collocated with other tenants.
 * Hosted on-premises or in dedicated Datacenter.
 * Greater Cost, fewer benefits of the Public Cloud.
 * Natural evolution from tradtional Datacenter.
-
+##
 * **MANAGED BY:** You or Third Party.
 * **SINGLE ORG**
 
-<br>
 <br>
 
 ---
