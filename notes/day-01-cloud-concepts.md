@@ -70,10 +70,10 @@ Delivery of computing services over the internet.
 
 * Complete control over resources and security.
 * Data NOT collocated with other tenants.
-* Hosted on-premises or in dedicated Datacenter
-* Greater Cost, fewer benefits of the Public Cloud
-* Natural evolution from tradtional Datacenter
-* **MANAGED BY:** You or Third Party
+* Hosted on-premises or in dedicated Datacenter.
+* Greater Cost, fewer benefits of the Public Cloud.
+* Natural evolution from tradtional Datacenter.
+* **MANAGED BY:** You or Third Party.
 * **SINGLE ORG**
 
 <br>
@@ -83,9 +83,9 @@ Delivery of computing services over the internet.
 **Provider infrastructure**
 
 * No Capital expenditures (CAPEX) to scale UP
-* Quick Provisioning and Deprovisioning
-* Pay ONLY for what you USE
-* Built, controlled and maintained by Provider
+* Quick Provisioning and Deprovisioning.
+* Pay ONLY for what you USE.
+* Built, controlled and maintained by Provider.
 * **MANAGED BY:** Cloud provider.
 * **GENERAL PUBLIC ACCESS**
 
@@ -96,11 +96,23 @@ Delivery of computing services over the internet.
 **Both Connected**
 
 * Provides the MOST FLEXIBILIITY
-* Control Security Compliance or Legal
-* Surge to Public Cloud for temporary demand
-* Extra layer of Security between environments
-*  **Managed by: You and Provider
-*  **Private and Public interconnected
+* Control Security Compliance or Legal.
+* Surge to Public Cloud for temporary demand.
+* Extra layer of Security between environments.
+*  **Managed by:** You and Provider.
+*  **Private and Public interconnected.**
 
+<br>
+<br>
 
+## **Multi-Cloud**
+**Multiple Providers**
+
+* Multiple public cloud providers.
+* Different Features from Different Providers.
+* Manage Resources and security across environments.
+* Increasingly common deployment scenarios.
+* Supports provider migrations scenarios.
+*  **Managed by:** You and Provider.
+*  **2 or More providers connected.**
 
