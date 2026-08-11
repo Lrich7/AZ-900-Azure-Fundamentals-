@@ -1,116 +1,251 @@
-# AZ-900 Azure Fundamentals
+# Microsoft Azure Fundamentals (AZ-900)
 
 ![AZ-900 Azure Fundamentals Banner](images/banner1.png)
 
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4)
-
-A personal study repository documenting my preparation for the
-**Microsoft Azure Fundamentals (AZ-900)** certification.
-
-This repository follows a structured **3-week training schedule**
-combining Microsoft Learn, John Savill's Technical Training,
-practice questions, personal notes, and hands-on Azure exercises.
+![Status](https://img.shields.io/badge/Course-In%20Progress-blue)
+![Lessons](https://img.shields.io/badge/Lessons-21-green)
+![Labs](https://img.shields.io/badge/Labs-20-orange)
+![License](https://img.shields.io/badge/License-CC--BY--NC%204.0-success)
 
 ---
 
-## Training Plan
+# 👋 Welcome!
 
-### Week 1 — Cloud Concepts & Core Architecture
+Welcome to the **Microsoft Azure Fundamentals (AZ-900) Study Guide**.
 
-- [X] Day 1 — Cloud Concepts I
-- [ ] Day 2 — Cloud Concepts II & Cloud Models
-- [ ] Day 3 — Cloud Services: IaaS, PaaS & SaaS
-- [ ] Day 4 — Azure Regions & Availability
-- [ ] Day 5 — Resource Groups, Subscriptions & Management Groups
-- [ ] Day 6 — Azure Resource Manager & Azure Arc
-- [ ] Day 7 — Week 1 Review
+Whether you're brand new to Azure or preparing for the AZ-900 certification exam, this repository is designed to take you from the fundamentals all the way to exam readiness.
 
-### Week 2 — Core Services, Solutions & Identity
-
-- [ ] Day 8 — Azure Compute
-- [ ] Day 9 — Azure Networking
-- [ ] Day 10 — Storage & Data Movement
-- [ ] Day 11 — IoT, Big Data & AI
-- [ ] Day 12 — Serverless, DevOps & Management Tools
-- [ ] Day 13 — Identity Foundations
-- [ ] Day 14 — Microsoft Entra ID & RBAC
-
-### Week 3 — Governance, Security, Pricing & Review
-
-- [ ] Day 15 — Azure Governance
-- [ ] Day 16 — Governance & Compliance
-- [ ] Day 17 — Azure Security Fundamentals
-- [ ] Day 18 — Network & Data Protection
-- [ ] Day 19 — Azure Pricing & Cost Management
-- [ ] Day 20 — SLAs, Cost Management & Service Lifecycle
-- [ ] Day 21 — Comprehensive Review
+This is a **community-driven** study guide focused on **understanding Azure**, not simply memorizing exam questions.
 
 ---
 
-## Hands-On Practice
+## 📊 Repository Stats
 
-The training schedule includes practical Azure exercises such as:
-
-- Exploring Azure service models
-- Creating Resource Groups
-- Creating Virtual Machines
-- Creating Virtual Networks
-- Creating Storage Accounts
-- Exploring Azure Monitor and Advisor
-- Reviewing RBAC role assignments
-- Reviewing Azure Policy
-- Creating and reviewing Network Security Groups
-- Using the Azure Pricing Calculator
+- 📖 **21 Planned Lessons**
+- 🧪 **20 Hands-on Labs**
+- 📝 **4 Cheat Sheets**
+- 🎯 **4 Practice Exams**
+- 🎥 **John Savill Video Recommendations**
+- 📚 **Microsoft Learn References**
 
 ---
 
-## Core Topics
+## 📈 Course Progress
 
-- Cloud Concepts
-- IaaS, PaaS & SaaS
-- Azure Regions & Availability Zones
-- Resource Groups & Subscriptions
-- Azure Compute
-- Azure Networking
-- Azure Storage
-- Microsoft Entra ID
-- Role-Based Access Control (RBAC)
-- Azure Policy
-- Microsoft Defender for Cloud
-- Network Security Groups
-- Azure Key Vault
-- Azure Monitor
-- Governance & Compliance
-- Pricing & Cost Management
-- Service Level Agreements
+| Category | Progress | Status |
+|----------|:--------:|:------:|
+| 📖 Lessons | **3 / 21** | 🚧 In Progress |
+| 🧪 Labs | **1 / 20** | 🚧 In Progress |
+| 📝 Cheat Sheets | **4 / 4** | ✅ Complete |
+| 🎯 Practice Exams | **0 / 4** | ⏳ Planned |
+| 📚 Resources | **4 / 4** | ✅ Complete |
+
+**Overall Course Completion:** **~20%** 🚧
 
 ---
 
-## Repository Structure
+# 🚀 Start Here
+
+If you're new to the course, follow this order:
+
+1. 📖 Read the lesson
+2. 🧪 Complete the lab
+3. 📝 Review the cheat sheet
+4. 🎯 Take the practice exam
+5. ✅ Pass the AZ-900 Certification
+
+**➡️ Start with:** [Lesson 1 – Cloud Concepts](lessons/Lesson-01-Cloud-Concepts.md)
+
+---
+
+# 📚 Course Overview
+
+This repository includes:
+
+- 📖 Beginner-friendly lesson notes
+- 🧪 Hands-on Azure labs
+- 📝 Cheat sheets
+- 🎯 Practice exams
+- 📚 Microsoft Learn resources
+- 🎥 John Savill video recommendations
+
+The goal is to help beginners understand Azure concepts while building confidence for the AZ-900 certification exam.
+
+---
+
+# 📁 Repository Structure
 
 ```text
 AZ-900-Azure-Fundamentals/
 │
-├── README.md
-├── notes/       Daily AZ-900 study notes
-├── labs/        Hands-on Azure exercises
-└── images/      Screenshots and diagrams
+├── lessons/
+├── labs/
+├── cheatsheets/
+├── practice-exams/
+├── resources/
+├── images/
+└── README.md
 ```
 
 ---
 
-## Study Resources
+# 🗺️ Learning Path
 
-- Microsoft Learn — Azure Fundamentals
-- John Savill's Technical Training
-- Microsoft Azure Documentation
-- ExamTopics AZ-900 Practice Questions
+## Week 1 — Cloud Fundamentals
+
+- ✅ Lesson 1 – Cloud Concepts
+- 🚧 Lesson 2 – Cloud Benefits & Cloud Models
+- 🚧 Lesson 3 – Cloud Service Models
+- ⏳ Lesson 4 – Azure Architecture I
+- ⏳ Lesson 5 – Azure Architecture II
+- ⏳ Lesson 6 – Azure Architecture III
+- 📋 Week 1 Review
 
 ---
 
-## Progress
+## Week 2 — Azure Core Services
 
-🚧 **Currently studying for Microsoft Azure Fundamentals (AZ-900)**
+- Azure Compute
+- Azure Networking
+- Azure Storage
+- Core Azure Solutions
+- Azure Management Tools
+- Identity Services
+- Azure Security
+- Governance
+- Pricing & SLA
+- 📋 Week 2 Review
 
-This repository will be updated as I progress through the 21-day training plan.
+---
+
+## Week 3 — Final Review
+
+- Comprehensive Review
+- Practice Exams
+- Final Exam Preparation
+
+---
+
+# 📖 Lessons
+
+Complete lesson notes covering every AZ-900 exam objective.
+
+➡️ **[Browse Lessons](lessons/)**
+
+---
+
+# 🧪 Labs
+
+Hands-on Azure exercises designed to reinforce each lesson.
+
+Current labs include:
+
+- Explore the Azure Portal
+- Create a Virtual Machine
+- Create a Virtual Network
+- Create a Storage Account
+
+➡️ **[Browse Labs](labs/)**
+
+---
+
+# 📝 Cheat Sheets
+
+Quick reference guides designed for last-minute review.
+
+Includes:
+
+- Glossary
+- Comparison Tables
+- Exam Tips
+- Cram Sheet
+
+➡️ **[Browse Cheat Sheets](cheatsheets/)**
+
+---
+
+# 🎯 Practice Exams
+
+Prepare for the AZ-900 exam with practice questions.
+
+Includes:
+
+- Week 1 Review
+- Week 2 Review
+- Practice Exam 1
+- Practice Exam 2
+- Answer Key
+
+➡️ **[Browse Practice Exams](practice-exams/)**
+
+---
+
+# 📚 Resources
+
+Helpful study resources including:
+
+- Microsoft Learn
+- John Savill Video Library
+- Azure Free Account
+- Recommended Reading
+
+➡️ **[Browse Resources](resources/)**
+
+---
+
+# 💡 Recommended Study Order
+
+1. 📖 Read the lesson.
+2. 🧪 Complete the matching lab.
+3. 📝 Review the cheat sheet.
+4. 🎯 Take the weekly review.
+5. 📚 Continue to the next lesson.
+6. ✅ Finish with the practice exams.
+
+---
+
+# 👥 Who Is This For?
+
+This repository is ideal for:
+
+- Beginners learning Microsoft Azure
+- Students preparing for the AZ-900 certification
+- IT Professionals entering cloud computing
+- Help Desk Technicians
+- System Administrators
+- Anyone beginning their Azure certification journey
+
+---
+
+# 🤝 Contributing
+
+Suggestions, corrections, and improvements are always welcome!
+
+If you find an error or have an idea to improve the course, feel free to:
+
+- Open an Issue
+- Submit a Pull Request
+- Share feedback
+
+---
+
+# ⭐ Support the Project
+
+If this repository helped you learn Azure, please consider giving it a ⭐ on GitHub.
+
+It helps other learners discover the project and motivates future updates.
+
+---
+
+# 📜 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+
+You are welcome to:
+
+- ✅ Learn from these materials
+- ✅ Share them
+- ✅ Fork this repository
+- ✅ Improve upon the content
+
+Commercial use is not permitted without permission.
