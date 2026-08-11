@@ -1,4 +1,4 @@
-# Day 3 — Cloud Service Models (IaaS, PaaS & SaaS)
+# Lesson 3 — Cloud Service Models (IaaS, PaaS & SaaS)
 
 ---
 
