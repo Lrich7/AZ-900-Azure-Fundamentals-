@@ -1,5 +1,7 @@
 # AZ-900 Azure Fundamentals
 
+![AZ-900 Azure Fundamentals Banner](images/banner1.png)
+
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0078D4)
 
