@@ -1,4 +1,4 @@
-# Lesson 1 — Cloud Concepts I
+# Lesson 1 — Cloud Concepts
 
 ## 📖 Learning Objectives
 
