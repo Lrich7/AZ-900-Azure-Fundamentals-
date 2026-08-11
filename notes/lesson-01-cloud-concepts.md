@@ -1,4 +1,4 @@
-## **Day 1 — Cloud Concepts I**
+## **Lesson 1 — Cloud Concepts I**
 
 ## 🎥 Recommended Videos (John Savill)
 
