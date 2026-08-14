@@ -1,4 +1,4 @@
-[Lesson-02-Cloud-Benefits-and-Cloud-Models.md](https://github.com/user-attachments/files/31073687/Lesson-02-Cloud-Benefits-and-Cloud-Models.md)
+[Lesson-02-Cloud-Benefits-and-Cloud-Models(1).md](https://github.com/user-attachments/files/31074169/Lesson-02-Cloud-Benefits-and-Cloud-Models.1.md)
 # Lesson 2 — Cloud Benefits & Cloud Models
 
 ## 📖 Microsoft Learn
@@ -300,33 +300,17 @@ Think:
 
 ---
 
-# Hands-On — Cloud Model Identification
+# Hands-On Lab
 
-This lesson is mostly conceptual, so the hands-on activity should focus on recognizing the different environments rather than deploying resources.
+Complete the companion lab for this lesson:
 
-## Activity 1 — Identify the Cloud Model
+**[Lab 02 — Cloud Models & Azure Arc](../labs/Lab-02-Cloud-Models-and-Azure-Arc.md)**
 
-For each scenario, determine whether it represents **Public, Private, Hybrid, or Multi-Cloud**.
-
-1. A company runs all servers in its own private datacenter.
-2. A startup runs its entire application in Microsoft Azure.
-3. A company keeps sensitive databases on-premises but runs its website in Azure.
-4. A company uses Azure for identity services and AWS for application hosting.
-5. A company operates a private VMware environment and connects it to Azure services.
-
-## Activity 2 — Explore Azure Arc
-
-In the Azure Portal:
-
-1. Search for **Azure Arc**.
-2. Open the Azure Arc service.
-3. Review the types of resources Azure Arc can manage.
-4. Identify how Arc could be used with:
-   - On-premises servers
-   - Kubernetes
-   - Other cloud providers
-
-**No resources need to be deployed.**
+The lab reinforces:
+- Public, Private, Hybrid, and Multi-Cloud identification
+- Azure Arc
+- Real-world cloud model scenarios
+- Azure Portal exploration
 
 ---
 
