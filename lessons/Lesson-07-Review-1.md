@@ -1,8 +1,8 @@
 [Lesson-07-Week-1-Review.md](https://github.com/user-attachments/files/31148621/Lesson-07-Week-1-Review.md)
 
-# Lesson 7 — Week 1 Review
+# Lesson 7 — Review 1
 
-## 📚 Week 1 Review
+## 📚 Review 1
 
 Lesson 7 introduces **no new key terms**. The goal is to review and connect the concepts from **Lessons 1–6**.
 
