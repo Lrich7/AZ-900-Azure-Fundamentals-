@@ -1,7 +1,6 @@
-# Lesson 15 — Week 2 Review
+# Lesson 15 — Review 2
 
-## 📚 Week 2 Review
-
+## 📚 Week 2 
 **Lessons Covered:** Lessons 8–14
 
 There are **no new terms** in Lesson 15.
