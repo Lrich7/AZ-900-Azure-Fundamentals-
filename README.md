@@ -91,7 +91,7 @@ AZ-900-Azure-Fundamentals/
 
 # 🗺️ Learning Path
 
-## Week 1 — Cloud Fundamentals
+## Section 1 — Cloud Fundamentals
 
 - ✅ Lesson 1 – Cloud Concepts
 - 🚧 Lesson 2 – Cloud Benefits & Cloud Models
@@ -103,7 +103,7 @@ AZ-900-Azure-Fundamentals/
 
 ---
 
-## Week 2 — Azure Core Services
+## Section 2 — Azure Core Services
 
 - Azure Compute
 - Azure Networking
@@ -118,7 +118,7 @@ AZ-900-Azure-Fundamentals/
 
 ---
 
-## Week 3 — Final Review
+## Section 3 — Final Review
 
 - Comprehensive Review
 - Practice Exams
@@ -170,11 +170,13 @@ Prepare for the AZ-900 exam with practice questions.
 
 Includes:
 
-- Week 1 Review
-- Week 2 Review
+- Section 1 Review
+- Section 2 Review
+- Section 3 Review
 - Practice Exam 1
 - Practice Exam 2
-- Answer Key
+- Practice Exam 3
+- Answer Keys
 
 ➡️ **[Browse Practice Exams](practice-exams/)**
 
